@@ -9,7 +9,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/pauloanalista?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/pauloanalista?style=flat-square)
 
-<img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
 
 ### Olá 👋 me chamo Paulo Rogério!
 
@@ -29,7 +28,9 @@
 </div>
 
 
-
+<div>
+<img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
+  </div>
 
 
 <!--
