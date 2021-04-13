@@ -1,3 +1,5 @@
+<img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
+
 # Paulo Rogério Martins Marques
 
 [![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://ilovecode.com.br)
@@ -9,9 +11,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/pauloanalista?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/pauloanalista?style=flat-square)
 
+<br><br>
 
-### Olá 👋 me chamo Paulo Rogério!
 
+### 👋 Olá me chamo Paulo Rogério!
 - 😄 Sou fundador do blog [Ilovecode](https://ilovecode.com.br) onde costumo contribuir com artigos técnicos voltados para desenvolvedores.
 - 👯 Compartilho conteúdos sobre Xamarin, Ionic, Flutter, Bots, C#, e .Net em geral.
 - 📫 Você pode me encontrar em:
@@ -28,9 +31,15 @@
 </div>
 
 
-<div>
-<img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
-  </div>
+
+
+
+
+
+
+
+
+
 
 
 <!--
