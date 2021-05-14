@@ -2,7 +2,7 @@
 
 # Paulo Rogério Martins Marques
 
-[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://ilovecode.com.br)
+[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://olha.la/ilovecode)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UChoveUE94dFSAPfPiJhFsew)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paulorogerio/)
 
@@ -20,7 +20,7 @@
 - 📫 Você pode me encontrar em:
   - [Youtube](https://www.youtube.com/channel/UChoveUE94dFSAPfPiJhFsew)
   - [Twitter](https://twitter.com/I_Love_Code)
-  - [Ilovecode](https://ilovecode.com.br)
+  - [Ilovecode](https://olha.la/ilovecode)
   - [Mais sobre mim](https://olha.la/paulorogerio)
   - [Meus Treinamentos](https://olha.la/cursos)
   - [Grupo VIP de Estudo no Telegram](https://olha.la/ilovecode-telegram)
