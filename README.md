@@ -26,6 +26,8 @@
   - [Grupo VIP de Estudo no Telegram](https://olha.la/ilovecode-telegram)
   Ionic, C#, Bots, Xamarin, Node.js, Flutter e etc    
 
+<img align="left" src="https://raw.githubusercontent.com/pauloanalista/pauloanalista/7c06ebf340ef3e446c0cfc9655dccb0fc28408fa/darkSnake.svg" />
+
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloanalista&layout=compact)](https://github.com/pauloanalista/github-readme-stats)
 
 <div>
