@@ -2,7 +2,6 @@
 
 # Paulo Rogério Martins Marques
 
-[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://olha.la/ilovecode)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UChoveUE94dFSAPfPiJhFsew)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paulorogerio/)
 
@@ -20,10 +19,9 @@
 - 📫 Você pode me encontrar em:
   - [Youtube](https://www.youtube.com/channel/UChoveUE94dFSAPfPiJhFsew)
   - [Twitter](https://twitter.com/I_Love_Code)
-  - [Ilovecode](https://olha.la/ilovecode)
-  - [Mais sobre mim](https://olha.la/paulorogerio)
-  - [Meus Treinamentos](https://olha.la/cursos)
-  - [Grupo VIP de Estudo no Telegram](https://olha.la/ilovecode-telegram)
+  - [Mais sobre mim](https://chat.atennde.com/paulorogerio)
+  - [Meus Treinamentos](https://chat.atennde.com/paulorogerio)
+  - [Grupo VIP de Estudo no Telegram](https://chat.atennde.com/paulorogerio)
   Ionic, C#, Bots, Xamarin, Node.js, Flutter e etc    
 
 <img align="left" src="https://raw.githubusercontent.com/pauloanalista/pauloanalista/7c06ebf340ef3e446c0cfc9655dccb0fc28408fa/darkSnake.svg" />
